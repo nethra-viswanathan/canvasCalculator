@@ -1,0 +1,19 @@
+
+.calculatorHeader{
+    border: 1px solid #4e4f53;
+    border-radius: 11px;
+    width: 271px;
+    text-align: center;
+    padding: 16px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    letter-spacing: 6px;
+}
+.calculatorParent{
+    text-align: center;
+}
+body{
+    font-family: 'Stick No Bills', sans-serif;
+}
