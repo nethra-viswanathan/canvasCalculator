@@ -1,22 +1,21 @@
-# Narasimha Teja Reddy
-# 002793709
+# Simple Calculator
+A simple calculator application built using Canvas API in JavaScript
 
-# JavaScript Canvas Calculator
-This is a simple calculator created using JavaScript and HTML5 Canvas. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+**Functions:**
 
-# Algorithm
-The calculator uses a custom-written algorithm to evaluate expressions entered by the user. The algorithm first breaks down the expression into its constituent parts, such as numbers, operators, and parentheses. It then performs the calculations in the correct order, taking into account the order of operations.
+* Perform simple mathematical operations
+* Option to clear all types numbers
+* Option to clear last types number / operator
 
-# Getting Started
-To use the calculator, simply open the index.html file in your web browser. You can enter expressions using the on-screen buttons. The calculator will display the result of the expression as you type.
+**Scrennshots**
 
-# Features
-1) Basic mathematical operations: addition, subtraction, multiplication, modulas and division
-2) Parentheses for grouping expressions
-3) Back button to clear a character the calculator
+UI of the calculator :
+<img width="523" alt="Screen Shot 2023-03-21 at 8 51 49 PM" src="https://user-images.githubusercontent.com/35915727/226775019-718d06b9-78e6-4f61-bc4c-4ea14907a9af.png">
 
-# Technologies Used
-JavaScript
-HTML5 Canvas
-CSS
+Performing basic operations:
 
+<img width="457" alt="Screen Shot 2023-03-21 at 8 52 02 PM" src="https://user-images.githubusercontent.com/35915727/226775053-03e99d7c-1dca-4e59-811e-c21ed5f35a07.png">
+
+Performing operations with parantesis:
+
+<img width="478" alt="Screen Shot 2023-03-21 at 8 55 54 PM" src="https://user-images.githubusercontent.com/35915727/226775092-a0ab4178-c293-4c1d-a940-061673efc61c.png">
